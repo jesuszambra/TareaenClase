@@ -1,0 +1,15 @@
+C:\Users\jimev\source\repos\AutosApp\AutosApp\obj\Debug\net6.0\AutosApp.csproj.AssemblyReference.cache
+C:\Users\jimev\source\repos\AutosApp\AutosApp\obj\Debug\net6.0\AutosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimev\source\repos\AutosApp\AutosApp\obj\Debug\net6.0\AutosApp.AssemblyInfoInputs.cache
+C:\Users\jimev\source\repos\AutosApp\AutosApp\obj\Debug\net6.0\AutosApp.AssemblyInfo.cs
+C:\Users\jimev\source\repos\AutosApp\AutosApp\obj\Debug\net6.0\AutosApp.csproj.CoreCompileInputs.cache
+C:\Users\jimev\source\repos\AutosApp\AutosApp\bin\Debug\net6.0\AutosApp.exe
+C:\Users\jimev\source\repos\AutosApp\AutosApp\bin\Debug\net6.0\AutosApp.deps.json
+C:\Users\jimev\source\repos\AutosApp\AutosApp\bin\Debug\net6.0\AutosApp.runtimeconfig.json
+C:\Users\jimev\source\repos\AutosApp\AutosApp\bin\Debug\net6.0\AutosApp.dll
+C:\Users\jimev\source\repos\AutosApp\AutosApp\bin\Debug\net6.0\AutosApp.pdb
+C:\Users\jimev\source\repos\AutosApp\AutosApp\obj\Debug\net6.0\AutosApp.dll
+C:\Users\jimev\source\repos\AutosApp\AutosApp\obj\Debug\net6.0\refint\AutosApp.dll
+C:\Users\jimev\source\repos\AutosApp\AutosApp\obj\Debug\net6.0\AutosApp.pdb
+C:\Users\jimev\source\repos\AutosApp\AutosApp\obj\Debug\net6.0\AutosApp.genruntimeconfig.cache
+C:\Users\jimev\source\repos\AutosApp\AutosApp\obj\Debug\net6.0\ref\AutosApp.dll
